@@ -1,4 +1,6 @@
-👋 Hi, I'm @Lutezzi <br>🤙 I'm still continuing to learn new things.
+👋 Hi, I'm @Lutezzi <br>
+I'm a Junior Dev. <br>
+🤙 I'm still continuing to learn new things.
 
 ### Skills
 
