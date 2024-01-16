@@ -1,7 +1,8 @@
 Programmer
 ----------
 
-👋 Hi, I'm @Lutezzi 🤙 I'm still continuing to learn new things.
+👋 Hi, I'm @Lutezzi 
+🤙 I'm still continuing to learn new things.
 
 ### Skills
 
