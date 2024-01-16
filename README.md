@@ -17,6 +17,4 @@ Programmer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Lutezzi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutezzi&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/Lutezzi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutezzi&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
