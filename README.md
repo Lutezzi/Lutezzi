@@ -4,8 +4,6 @@ Programmer
 👋 Hi, I'm @Lutezzi <br>
 🤙 I'm still continuing to learn new things.
 
-![](https://komarev.com/ghpvc/?username=Lutezzi&color=blueviolet&style=flat-square)
-
 ### Skills
 
 
@@ -17,6 +15,8 @@ Programmer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Lutezzi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+![](https://komarev.com/ghpvc/?username=Lutezzi&color=blueviolet&style=flat-square)
 
 <b>My GitHub Stats</b>
 
