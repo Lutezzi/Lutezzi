@@ -1,8 +1,5 @@
-Programmer
-----------
-
-👋 Hi, I'm @Lutezzi <br>
-🤙 I'm still continuing to learn new things.
+<h1 align="center">Hi 👋, I'm @Lutezzi</h1>
+<h3 align="center">A passionate Developer from Turkey.</h3>
 
 ### Skills
 
