@@ -1,4 +1,4 @@
-Programmer
+Developer
 ----------
 
 👋 Hi, I'm @Lutezzi <br>
