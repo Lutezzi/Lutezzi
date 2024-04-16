@@ -18,10 +18,3 @@ Developer
 
 
 ![](https://komarev.com/ghpvc/?username=Lutezzi&color=blueviolet&style=flat-square)
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Lutezzi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-</ul>
