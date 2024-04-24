@@ -72,4 +72,4 @@
 
 ###
 
-![Views](https://github-views.deno.dev/api/badge/Lutezzi?style=flat&style=labelColor=purple)
+![](https://komarev.com/ghpvc/?username=Lutezzi&color=blueviolet&style=flat-square)
