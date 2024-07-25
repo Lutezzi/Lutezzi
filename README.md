@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/go7ftg9FgCoAAAAC/afro-samurai-sio.gif](https://pin.it/4kCfmyfpV"  />
+  <img height="200" src="https://tr.pinterest.com/pin/702843085626834528/"  />
 </div>
 
 ###
