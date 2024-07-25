@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://78.media.tumblr.com/264de65da395c7258f14acda0d4b3241/tumblr_oz9zp5G1JR1r843z4o5_1280.gif"  />
+  <img height="600" src="https://78.media.tumblr.com/264de65da395c7258f14acda0d4b3241/tumblr_oz9zp5G1JR1r843z4o5_1280.gif"  />
 </div>
 
 ###
