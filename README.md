@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=32&duration=4000&pause=1000&color=168D2D&center=true&width=435&lines=Hi%2C+I'm+Yi%C4%9Fit!;Web+Developer)](https://git.io/typing-svg)
+# Hi, I'm Yiğit! 👋
+### Web Developer
 
 👊 I'm a Web Programming student. <br>
 🤙 I'm still continuing to learn new things.
